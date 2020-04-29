@@ -1,4 +1,4 @@
-*AIRBAG_SIMPLE_AIRBAG_MODEL_VOLUME_ID
+*AIRBAG_SIMPLE_AIRBAG_MODEL_ID
 $#    abid heading
 
 $#     sid    sidtyp      rbid      vsca      psca      vini       mwd      spsf
