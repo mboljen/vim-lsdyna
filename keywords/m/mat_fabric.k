@@ -1,5 +1,9 @@
 *MAT_FABRIC_TITLE
+<<<<<<< HEAD
 $# title
+=======
+$#
+>>>>>>> 08e42beeca5ee6dfff944338b8d2ffc6661a32bb
 ?title?
 $#     mid        ro        ea        eb                prba      prab
          ?         ?         ?         ?
