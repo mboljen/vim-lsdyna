@@ -1,4 +1,4 @@
 *SENSOR_DEFINE_FORCE
-$#  sensid     ftype    typeid       vid       crd
+$#  sensid     ftype    typeid       vid       crd    cpmpid
          ?         ?         ?         ?         ?
 $
